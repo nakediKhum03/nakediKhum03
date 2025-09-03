@@ -1,12 +1,10 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, I'm Khumo Nakedi
 ## About Me
-- 👋 I'm currently working for a state college in Nebraska teaching computer
-programming
-- 👋 I’m studing to complete my Python certifications
-- 👋 I use daily .java, .cpp, .py, .sql
-- Love programming and resolving problems
-- 👋 I like to learn something new
-- 👋 How to reach me **dejohns2@wsc.edu**
+- 👋 I'm currently a student at Wayne State College 
+- 👋 I’m studing to complete my Exercise Science Major, Compuer Information System  Minor and Public & Health Minor
+- 👋 I use C++
+- I just started programming and I am liking it so far, it is like learning a new language. 
+- 👋 Find me via **moeketsi.nakedi03@gmail.com**
 - 👋 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 I have held numerous IT positions including software analyst and project management
 for world market leaders. I have a wide range of technology experience ranging from
