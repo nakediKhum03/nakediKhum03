@@ -1,7 +1,7 @@
 # Hi 👋, I'm Khumo Nakedi
 ## About Me
-- I'm currently a senior student at Wayne State College 
-- I’m studying to complete my Exercise Science Major, Computer Information System  Minor and Public & Health Minor
+# Wayne State College 
+# Exercise Science Major, Computer Information System  Minor and Public & Health Minor
 - I use C++
 - I just started programming and I am developing a great appreciation for programming and databases, it is 
 - Find me via **moeketsi.nakedi03@gmail.com**
