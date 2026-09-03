@@ -6,7 +6,6 @@
 - I just started programming and I am developing a great appreciation for programming and databases, it is 
 - Find me via **moeketsi.nakedi03@gmail.com**
 - Link me on LinkedIn: **https://www.linkedin.com/in/moeketsi-nakedi-2b8174275/**
-
 - __________________________________________________________________________________________________________________
 ## My learning philosophy
 -   Show up
