@@ -8,7 +8,7 @@
 - Link me on LinkedIn: **https://www.linkedin.com/in/moeketsi-nakedi-2b8174275/**
 
 - __________________________________________________________________________________________________________________
-- ## My learning philosophy
+## My learning philosophy
 -   Show up
 -   Always be willing to learn something new
 -   Immerse yourself in the field 
