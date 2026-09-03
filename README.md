@@ -3,7 +3,7 @@
 # Wayne State College 
 # Exercise Science Major, Computer Information System  Minor and Public & Health Minor
 - I use C++
-- I just started programming and I am developing a great appreciation for programming and databases, it is 
+- I just started programming and I am developing a great appreciation for programming and databases, it is something new and that excites me!
 - Email: **moeketsi.nakedi03@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/moeketsi-nakedi-2b8174275/**
 ___________________________________________________________________________________________________________________
